@@ -23,3 +23,4 @@ grades = {'Chain' : 'A',
         
 print(grades['Chain'])
 print("Chain")
+print("Chain2")
